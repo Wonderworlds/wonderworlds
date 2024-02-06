@@ -10,7 +10,7 @@ I'm a junior developer, that keeps on trying to learn new things such as Web, Ga
 * 🎓  I'm studying at 42 Paris
 * 🖥️  See my portfolio at [Portfolio](http://www.behance.net/floranmauguin)
 * ✉️  You can contact me at [floran.mauguin@gmail.com](mailto:floran.mauguin@gmail.com)
-* 🧠  I'm learning Django, GraphQL and so much other stuff
+* 🧠  I'm learning Htmx and Golang and so much other stuff
 
 ### Skills
 
